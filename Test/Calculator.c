@@ -23,7 +23,7 @@ double calculate(double number1, char Arithmetic, double number2)
 
 int main(void)
 {
-  double number1 = 3, number2 = 4, result;
+  double number1 = 3, number2 = 4, result = 0;
   char Arithmetic = '*';
 
   result = number1 * number2; //calculate(number1, Arithmetic, number2);

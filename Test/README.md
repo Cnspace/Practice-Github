@@ -5,4 +5,4 @@ and rearrange form that compose plus and minus.
 Finally, Calculate remaining and show result.
 
 
-We must know how to run scanf in c!!!
+We must know how to run scanf in c!!

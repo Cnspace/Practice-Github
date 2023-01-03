@@ -1,2 +1,0 @@
-We will calculate Multiplication, Divide first,
-So we find * and / first

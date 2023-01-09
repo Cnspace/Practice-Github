@@ -18,7 +18,7 @@ double calculate(double number1, char Arithmetic, double number2)
       sum = number1 - number2;
       break;
   }
-  return 0;
+  return sum;  //return with sum and create Calculate system with switch case
 }
 
 int main(void)
